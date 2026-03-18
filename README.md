@@ -5,9 +5,9 @@ My work sits at the intersection of backend engineering, cloud infrastructure, a
 
 I specialize in:
 
-• Designing scalable APIs that support growing products
-• Building cloud infrastructure that is resilient and maintainable
-• Architecting backend systems for long-term scalability
+• Designing scalable APIs that support growing products  
+• Building cloud infrastructure that is resilient and maintainable  
+• Architecting backend systems for long-term scalability  
 • Creating reliable deployment pipelines that reduce friction between development and production
 
 I care deeply about simplicity, reliability, and production readiness.
