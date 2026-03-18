@@ -17,8 +17,3 @@ If you’re building SaaS products, platforms, or distributed systems, I’d lov
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusupreads) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusupmaulana950@gmail.com) 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yusupscopes&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
